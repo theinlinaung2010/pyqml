@@ -1,0 +1,5 @@
+jupyter
+scikit-learn
+torch
+qiskit
+virtualenv
