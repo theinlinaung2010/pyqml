@@ -1,2 +1,5 @@
 *.pyc
 env/Lib
+
+env/Scripts/playground.ipynb
+env/Scripts/.ipynb_checkpoints/playground-checkpoint.ipynb
